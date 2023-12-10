@@ -1,0 +1,1 @@
+Start-Process schtasks -ArgumentList '/run', '/tn', 'DisableTouchScreen' -WindowStyle Hidden # Replace with your task names
